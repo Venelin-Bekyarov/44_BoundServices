@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
         vensText.setText(currentTime);
     }
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
